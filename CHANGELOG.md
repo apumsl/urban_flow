@@ -31,3 +31,7 @@
   - Cálculo de exceso de velocidad real y con tolerancia
   - Dataset guardado
   
+  ## [Sprint 1] - Ejercicio 04
+  - Creación de la clase FineAnalyzer
+  - Implementación de métodos para ranking de patentes, horarios, excesos y ubicaciones
+  
