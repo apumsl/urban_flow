@@ -24,3 +24,10 @@
   - Cálculo de exceso de velocidad real y con tolerancia
   - Dataset guardado
   
+  ## [Sprint 1] - Ejercicio 03
+  ###
+  - Limpieza y normalización de fechas, horas, ubicaciones y patentes
+  - Eliminación de valores nulos y outliers
+  - Cálculo de exceso de velocidad real y con tolerancia
+  - Dataset guardado
+  
