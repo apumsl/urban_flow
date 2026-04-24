@@ -35,3 +35,11 @@
   - Creación de la clase FineAnalyzer
   - Implementación de métodos para ranking de patentes, horarios, excesos y ubicaciones
   
+  ## [Sprint 1] - Ejercicio 02
+  ### Agregado
+  - Dataset raw_speeding_fines.csv descargado y almacenado en urban_flow/data/raw
+  - Exploracion inicial:
+  - Se muestran las primeras 5 filas del dataset
+  - Se analizan los tipos de datos
+  - Se cuentan los valores nulos
+  
