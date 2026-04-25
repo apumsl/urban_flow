@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+.exceso_dist.jpg
+.exceso_line.jpg
