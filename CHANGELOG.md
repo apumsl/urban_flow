@@ -27,4 +27,19 @@
   ## [Sprint 1] - Ejercicio 04
   - Creación de la clase FineAnalyzer
   - Implementación de métodos para ranking de patentes, horarios, excesos y ubicaciones
-  
+  ## [Sprint 1] - Ejercicio 05
+### 
+- Gráfico de barras: top 10 patentes más reincidentes (fines.jpg)
+- Gráfico de torta: porcentaje de infracciones por hora (hours.jpg)
+- Gráfico de barras horizontal: infracciones por mes (months.jpg)
+- Gráfico de líneas: cantidad de infracciones por exceso de velocidad (hour.jpg)
+- Gráfico de líneas: exceso promedio de velocidad por fecha (date.jpg)
+
+## [Sprint 1] - Ejercicio 06
+### 
+- Porcentaje de infracciones en la fecha 1932-01-01
+- Porcentaje de infracciones a la hora 00:00
+
+## [Sprint 1] - Ejercicio 07
+### 
+- Conclusión sobre los datos del dataset speeding_fines
