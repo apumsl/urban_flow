@@ -29,7 +29,7 @@
   - Implementación de métodos para ranking de patentes, horarios, excesos y ubicaciones
   
 ## [Sprint 1] - Punto 07
-- Agregado análisis final y conclusión del TP (Ricardo Bulnes)
+- Agregado análisis final y conclusión del TP
 
 ## [Sprint 1] - Punto 07
-- Agregado análisis final y conclusión del TP (Ricardo Bulnes)
+- Agregado análisis final y conclusión del TP
