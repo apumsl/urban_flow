@@ -30,3 +30,6 @@
   
 ## [Sprint 1] - Punto 07
 - Agregado análisis final y conclusión del TP (Ricardo Bulnes)
+
+## [Sprint 1] - Punto 07
+- Agregado análisis final y conclusión del TP (Ricardo Bulnes)
