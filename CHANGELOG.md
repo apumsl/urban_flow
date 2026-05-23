@@ -30,3 +30,11 @@
   
 ## [Sprint 1] - Punto 07
 - Agregado análisis final y conclusión del TP
+## [Sprint 2] - Ejercicio 03
+### Agregado
+Se realizo un procesamiento de las imágenes,  donde en cada punto llama a la
+función que muestra las imágenes trabajadas en el punto anterior.
+La cadena de trabajo es group_images → dict_grises → dict_blur → dict_canny
+#  - Grises: desde las originales
+#  - Blur: desde las grises ("en escala de grises")
+#  - Canny: desde las suavizadas ("sobre las imágenes suavizadas")
