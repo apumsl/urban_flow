@@ -74,3 +74,12 @@ La cadena de trabajo es group_images → dict_grises → dict_blur → dict_cann
 - Clasificación en grupos 'plates' y 'completes' por resolución promedio.
 - Diccionario group_images guardado en data/interim/group_images.json.
 - Función mostrar_muestra_imagenes para visualizar 8 imágenes aleatorias en tabla 2x4.
+
+## [Sprint 2] - Ejercicio 03
+### Agregado
+Se realizo un procesamiento de las imágenes,  donde en cada punto llama a la
+función que muestra las imágenes trabajadas en el punto anterior.
+La cadena de trabajo es group_images → dict_grises → dict_blur → dict_canny
+#  - Grises: desde las originales
+#  - Blur: desde las grises ("en escala de grises")
+#  - Canny: desde las suavizadas ("sobre las imágenes suavizadas")
