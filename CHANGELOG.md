@@ -43,3 +43,10 @@ La cadena de trabajo es group_images → dict_grises → dict_blur → dict_cann
 #  - Blur: desde las grises ("en escala de grises")
 #  - Canny: desde las suavizadas ("sobre las imágenes suavizadas")
 >>>>>>> 547b7201d2afdb7b936f24c1f95d3638bac2154c
+
+## [Sprint 2] - Ejercicio 02
+### Agregado
+- Listado de imágenes con nombre y tamaño en KB.
+- Clasificación en grupos 'plates' y 'completes' por resolución promedio.
+- Diccionario group_images guardado en data/interim/group_images.json.
+- Función mostrar_muestra_imagenes para visualizar 8 imágenes aleatorias en tabla 2x4.
