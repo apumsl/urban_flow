@@ -32,3 +32,11 @@
 - Incorporación de las columnas imagen, patente_imagen y ratio al dataset.
 - Actualización del archivo data/interim/group_images.json con las patentes detectadas.
 - Generación del dataset final data/processed/speeding_fines_image.csv.
+
+## [Sprint 2] - Ejercicio 05
+### Agregado
+- Cálculo de métricas finales sobre el dataset procesado.
+- Verificación de registros con imagen asociada.
+- Análisis de multas con y sin imagen.
+- Generación de conclusiones finales del Sprint 2.
+- Limpieza del archivo CHANGELOG.md.
