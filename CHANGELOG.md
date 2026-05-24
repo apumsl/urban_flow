@@ -40,3 +40,8 @@
 - Análisis de multas con y sin imagen.
 - Generación de conclusiones finales del Sprint 2.
 - Limpieza del archivo CHANGELOG.md.
+
+## [Sprint 2] - Ejercicio 06
+### Agregado
+- Análisis final de los resultados obtenidos.
+- Elaboración de conclusiones del Trabajo Práctico.
