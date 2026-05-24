@@ -24,3 +24,11 @@
 - Aplicación de filtro Blur.
 - Detección de bordes mediante Canny.
 - Generación de los diccionarios dict_grises, dict_blur y dict_canny.
+
+## [Sprint 2] - Ejercicio 04
+### Agregado
+- Extracción de texto de patentes mediante OCR utilizando EasyOCR.
+- Asociación de imágenes con registros del dataset histórico mediante Fuzzy Match con umbral de coincidencia del 80%.
+- Incorporación de las columnas imagen, patente_imagen y ratio al dataset.
+- Actualización del archivo data/interim/group_images.json con las patentes detectadas.
+- Generación del dataset final data/processed/speeding_fines_image.csv.
