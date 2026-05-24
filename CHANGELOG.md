@@ -2,87 +2,30 @@
 
 ## [Sprint 2] - Ejercicio 01
 ### Agregado
-- Se clono el repositorio remoto del TP1 en GitHub via API
-- Se crea la rama Sprint_2 partiendo del Sprint_1
-- Estructura de directorios para las imagenes del proyecto
-- Se descarga dataset zipeado de imágenes desde github
-- Se descomprime el dataset en urban_flow/data/raw/imgs
-- README.md con objetivo y contexto del Sprint 2
-- CHANGELOG.md
-- .gitignore
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-
-  ## [Sprint 1] - Ejercicio 02
-  ### Agregado
-  - Dataset raw_speeding_fines.csv descargado y almacenado en urban_flow/data/raw
-  - Exploracion inicial:
-  - Se muestran las primeras 5 filas del dataset
-  - Se analizan los tipos de datos
-  - Se cuentan los valores nulos
-  
-  ## [Sprint 1] - Ejercicio 03
-  ###
-  - Limpieza y normalización de fechas, horas, ubicaciones y patentes
-  - Eliminación de valores nulos y outliers
-  - Cálculo de exceso de velocidad real y con tolerancia
-  - Dataset guardado
-  
-  ## [Sprint 1] - Ejercicio 04
-  - Creación de la clase FineAnalyzer
-  - Implementación de métodos para ranking de patentes, horarios, excesos y ubicaciones
-  
-## [Sprint 1] - Punto 07
-- Agregado análisis final y conclusión del TP
-## [Sprint 2] - Ejercicio 03
-### Agregado
-Se realizo un procesamiento de las imágenes,  donde en cada punto llama a la
-función que muestra las imágenes trabajadas en el punto anterior.
-La cadena de trabajo es group_images → dict_grises → dict_blur → dict_canny
-#  - Grises: desde las originales
-#  - Blur: desde las grises ("en escala de grises")
-#  - Canny: desde las suavizadas ("sobre las imágenes suavizadas")
->>>>>>> 547b7201d2afdb7b936f24c1f95d3638bac2154c
+- Se clonó el repositorio remoto del TP1 en GitHub vía API.
+- Se creó la rama Sprint_2 partiendo de Sprint_1.
+- Se generó la estructura de directorios para las imágenes del proyecto.
+- Se descargó el dataset comprimido de imágenes desde GitHub.
+- Se descomprimieron las imágenes en urban_flow/data/raw/imgs.
+- Se creó el archivo README.md.
+- Se creó el archivo CHANGELOG.md.
+- Se creó el archivo .gitignore.
 
 ## [Sprint 2] - Ejercicio 02
 ### Agregado
 - Listado de imágenes con nombre y tamaño en KB.
-- Clasificación en grupos 'plates' y 'completes' por resolución promedio.
-- Diccionario group_images guardado en data/interim/group_images.json.
-- Función mostrar_muestra_imagenes para visualizar 8 imágenes aleatorias en tabla 2x4.
-
-## [Sprint 2] - Ejercicio 02
-### Agregado
-- Listado de imágenes con nombre y tamaño en KB.
-- Clasificación en grupos 'plates' y 'completes' por resolución promedio.
-- Diccionario group_images guardado en data/interim/group_images.json.
-- Función mostrar_muestra_imagenes para visualizar 8 imágenes aleatorias en tabla 2x4.
->>>>>>> d8058d2c09b353d41c8fda83c96ee8cc354a66d2
-
-## [Sprint 2] - Ejercicio 02
-### Agregado
-- Listado de imágenes con nombre y tamaño en KB.
-- Clasificación en grupos 'plates' y 'completes' por resolución promedio.
-- Diccionario group_images guardado en data/interim/group_images.json.
-- Función mostrar_muestra_imagenes para visualizar 8 imágenes aleatorias en tabla 2x4.
-
-## [Sprint 2] - Ejercicio 02
-### Agregado
-- Listado de imágenes con nombre y tamaño en KB.
-- Clasificación en grupos 'plates' y 'completes' por resolución promedio.
-- Diccionario group_images guardado en data/interim/group_images.json.
-- Función mostrar_muestra_imagenes para visualizar 8 imágenes aleatorias en tabla 2x4.
+- Clasificación de imágenes en los grupos plates y completes.
+- Generación del diccionario group_images.
+- Almacenamiento de group_images en data/interim/group_images.json.
+- Implementación de la función mostrar_muestra_imagenes para visualizar imágenes aleatorias.
 
 ## [Sprint 2] - Ejercicio 03
 ### Agregado
-Se realizo un procesamiento de las imágenes,  donde en cada punto llama a la
-función que muestra las imágenes trabajadas en el punto anterior.
-La cadena de trabajo es group_images → dict_grises → dict_blur → dict_canny
-#  - Grises: desde las originales
-#  - Blur: desde las grises ("en escala de grises")
-#  - Canny: desde las suavizadas ("sobre las imágenes suavizadas")
+- Procesamiento de imágenes en escala de grises.
+- Aplicación de filtro Blur para suavizado.
+- Detección de bordes mediante algoritmo Canny.
+- Generación de los diccionarios dict_grises, dict_blur y dict_canny.
+- Visualización de resultados en cada etapa del procesamiento.
 
 ## [Sprint 2] - Ejercicio 04
 ### Agregado
@@ -91,3 +34,11 @@ La cadena de trabajo es group_images → dict_grises → dict_blur → dict_cann
 - Incorporación de las columnas imagen, patente_imagen y ratio al dataset.
 - Actualización del archivo data/interim/group_images.json con las patentes detectadas.
 - Generación del dataset final data/processed/speeding_fines_image.csv.
+
+## [Sprint 2] - Ejercicio 05
+### Agregado
+- Cálculo de métricas finales sobre el dataset procesado.
+- Verificación de registros con imagen asociada.
+- Análisis de multas con y sin imagen.
+- Generación de conclusiones finales del Sprint 2.
+- Limpieza del archivo CHANGELOG.md.
