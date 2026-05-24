@@ -17,3 +17,10 @@
 - Clasificación en grupos 'plates' y 'completes' por resolución promedio.
 - Diccionario group_images guardado en data/interim/group_images.json.
 - Función mostrar_muestra_imagenes para visualizar 8 imágenes aleatorias en tabla 2x4.
+
+## [Sprint 2] - Ejercicio 03
+### Agregado
+- Procesamiento de imágenes en escala de grises.
+- Aplicación de filtro Blur.
+- Detección de bordes mediante Canny.
+- Generación de los diccionarios dict_grises, dict_blur y dict_canny.
