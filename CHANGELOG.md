@@ -60,3 +60,10 @@ La cadena de trabajo es group_images → dict_grises → dict_blur → dict_cann
 - Diccionario group_images guardado en data/interim/group_images.json.
 - Función mostrar_muestra_imagenes para visualizar 8 imágenes aleatorias en tabla 2x4.
 >>>>>>> d8058d2c09b353d41c8fda83c96ee8cc354a66d2
+
+## [Sprint 2] - Ejercicio 02
+### Agregado
+- Listado de imágenes con nombre y tamaño en KB.
+- Clasificación en grupos 'plates' y 'completes' por resolución promedio.
+- Diccionario group_images guardado en data/interim/group_images.json.
+- Función mostrar_muestra_imagenes para visualizar 8 imágenes aleatorias en tabla 2x4.
