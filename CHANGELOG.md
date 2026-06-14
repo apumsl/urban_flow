@@ -96,3 +96,11 @@
 - Análisis de radares con mayor volumen de infracciones.
 - Obtención del Top 10 de conductores reincidentes.
 - Cálculo del porcentaje de multas confirmadas visualmente.
+
+## [Sprint 3] - Ejercicio 08
+### Agregado
+- Carga del modelo OpenCLIP (ViT-B-32) para generación de embeddings.
+- Creación de la base de datos vectorial ChromaDB `patente_vectorial`.
+- Implementación de la función `vectorizar_imagen`.
+- Poblado de la colección vectorial con embeddings de imágenes de evidencias.
+- Vinculación entre la base relacional (SQLite) y la vectorial (ChromaDB).
