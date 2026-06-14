@@ -71,3 +71,11 @@
 - Asociación de las entidades mediante relaciones del dominio.
 - Generación de objetos Multa a partir de los registros del dataset.
 - Validación del funcionamiento mediante casos de prueba.
+
+## [Sprint 3] - Ejercicio 05
+### Agregado
+- Diseño del modelo relacional con SQLAlchemy.
+- Definición de claves primarias.
+- Implementación de claves foráneas.
+- Definición de relaciones entre tablas.
+- Implementación de métodos __repr__.
