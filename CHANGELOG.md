@@ -45,3 +45,10 @@
 ### Agregado
 - Análisis final de los resultados obtenidos.
 - Elaboración de conclusiones del Trabajo Práctico.
+
+## [Sprint 3] - Ejercicio 02
+### Agregado
+- Creación del directorio /content/remote_dvc para simular un remote local de DVC.
+- Configuración del remote DVC local.
+- Migración de los archivos binarios de gráficos desde Git hacia DVC.
+- Generación de los archivos de seguimiento .dvc para cada imagen.

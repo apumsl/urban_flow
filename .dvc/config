@@ -1,2 +1,2 @@
 ['remote "origin_local"']
-    url = /content/dvc_repository
+    url = /content/remote_dvc
