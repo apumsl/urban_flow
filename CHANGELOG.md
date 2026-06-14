@@ -77,3 +77,8 @@
 ### Agregado
 - Redacción de conclusión del trabajo integrador en README.md.
 - Síntesis de resultados de todos los ejercicios del Sprint 3.
+
+## [Sprint 3] - Ejercicio 10
+### Agregado
+- Redacción de conclusión del trabajo integrador en README.md.
+- Síntesis de resultados de todos los ejercicios del Sprint 3.
