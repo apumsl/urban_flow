@@ -104,3 +104,9 @@
 - Implementación de la función `vectorizar_imagen`.
 - Poblado de la colección vectorial con embeddings de imágenes de evidencias.
 - Vinculación entre la base relacional (SQLite) y la vectorial (ChromaDB).
+
+## [Sprint 3] - Ejercicio 09
+### Agregado
+- Creación de la función buscar_patente_imagen.
+- Integración de búsqueda de embeddings en ChromaDB.
+- Consulta al ORM SQLAlchemy para retornar el historial del Vehículo asociado a la imagen.
