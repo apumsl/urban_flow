@@ -62,3 +62,12 @@
 - Creación de la entidad Evidencia.
 - Definición de relaciones entre las entidades.
 - Implementación de métodos __repr__ para mejorar la legibilidad.
+
+## [Sprint 3] - Ejercicio 04
+### Agregado
+- Implementación de la función procesar_fila_csv.
+- Mapeo de filas del archivo speeding_fines_image.csv a objetos del modelo lógico.
+- Creación automática de instancias Vehiculo, Radar y Evidencia.
+- Asociación de las entidades mediante relaciones del dominio.
+- Generación de objetos Multa a partir de los registros del dataset.
+- Validación del funcionamiento mediante casos de prueba.
