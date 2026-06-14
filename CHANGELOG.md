@@ -49,3 +49,12 @@
 - Migración de datos desde speeding_fines_image.csv.
 - Inserción de registros de Vehiculo, Radar, Multa y Evidencia.
 - Validación de la cantidad de registros insertados.
+
+## [Sprint 3] - Ejercicio 07
+### Agregado
+- Implementación de consultas SQL sobre la base de datos transito.
+- Obtención del Top 10 de patentes con mayor cantidad de multas.
+- Identificación de multas sin evidencia asociada.
+- Análisis de radares con mayor volumen de infracciones.
+- Obtención del Top 10 de conductores reincidentes.
+- Cálculo del porcentaje de multas confirmadas visualmente.
