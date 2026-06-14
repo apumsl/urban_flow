@@ -79,3 +79,11 @@
 - Implementación de claves foráneas.
 - Definición de relaciones entre tablas.
 - Implementación de métodos __repr__.
+
+## [Sprint 3] - Ejercicio 06
+### Agregado
+- Creación de la base de datos SQLite transito.db.
+- Creación automática de tablas mediante SQLAlchemy.
+- Migración de datos desde speeding_fines_image.csv.
+- Inserción de registros de Vehiculo, Radar, Multa y Evidencia.
+- Validación de la cantidad de registros insertados.
